@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "es2019",
+    "module": "esnext",
+    "isolatedModules": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "skipLibCheck": true,
+    "sourceMap": true,
+    "noImplicitReturns": false,
+    "noImplicitAny": false,
+    "moduleResolution": "node",
+    "jsx": "react",
+  },
+  "exclude": ["node_modules"]
+}
